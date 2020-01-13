@@ -16,3 +16,12 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.xs-1 {
+  width: 100%;
+}
